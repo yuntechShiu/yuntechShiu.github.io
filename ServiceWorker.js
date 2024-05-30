@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-20240530-0.1";
+const cacheName = "DefaultCompany-20240530-2-0.1";
 const contentToCache = [
-    "Build/myWebgl.loader.js",
-    "Build/myWebgl.framework.js",
-    "Build/myWebgl.data",
-    "Build/myWebgl.wasm",
+    "Build/myWebgl2.loader.js",
+    "Build/myWebgl2.framework.js",
+    "Build/myWebgl2.data",
+    "Build/myWebgl2.wasm",
     "TemplateData/style.css"
 
 ];
